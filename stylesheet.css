@@ -29,3 +29,9 @@ h1, h2, h3, h4, h5, h6 {
     background-image: url("/images/professionalWhiteBackground.png");
     background-attachment: fixed;
 }
+
+.site-image {
+    background: url(/images/New G2W Logo mini.png) center center no-repeat;
+    background-size: contain;
+    display: block;
+    }
