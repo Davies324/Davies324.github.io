@@ -31,7 +31,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .site-image {
-	height: 110px;
+	height: 90px;
     background: url("/images/New G2W Logo mini.png") center center no-repeat;
     background-size: contain;
     display: block;
